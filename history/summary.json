@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/home.tiekoetter.com",
     "slug": "home-tiekoetter-com",
     "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1569,
     "timeDay": 1569,
     "timeWeek": 1569,
     "timeMonth": 1569,
     "timeYear": 1569,
-    "dailyMinutesDown": {
-      "2022-06-11": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
