@@ -4,19 +4,19 @@
     "url": "https://home.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/home.tiekoetter.com",
     "slug": "home-tiekoetter-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1725,
-    "timeDay": 2192,
-    "timeWeek": 1725,
-    "timeMonth": 1725,
-    "timeYear": 1725,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1702,
+    "timeDay": 1903,
+    "timeWeek": 1702,
+    "timeMonth": 1702,
+    "timeYear": 1702,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 4
     }
   }
 ]
