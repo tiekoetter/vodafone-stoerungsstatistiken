@@ -4,7 +4,7 @@
     "url": "https://home.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/home.tiekoetter.com",
     "slug": "home-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 2550,
     "timeYear": 2341,
     "dailyMinutesDown": {
+      "2022-08-16": 0,
       "2022-08-12": 10,
       "2022-08-08": 10,
       "2022-08-02": 250,
