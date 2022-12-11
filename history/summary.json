@@ -4,9 +4,9 @@
     "url": "https://home.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/home.tiekoetter.com.ico",
     "slug": "home-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.13%",
-    "uptimeDay": "82.73%",
+    "uptimeDay": "82.72%",
     "uptimeWeek": "92.18%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "98.13%",
@@ -58,8 +58,7 @@
       "2022-07-21": 10,
       "2022-07-20": 10,
       "2022-07-17": 5,
-      "2022-07-15": 40,
-      "2022-07-10": 5
+      "2022-07-15": 40
     }
   }
 ]
