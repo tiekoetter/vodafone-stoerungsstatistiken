@@ -4,14 +4,14 @@
     "url": "https://home.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/home.tiekoetter.com.ico",
     "slug": "home-tiekoetter-com",
-    "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "82.99%",
+    "status": "down",
+    "uptime": "98.20%",
+    "uptimeDay": "83.03%",
     "uptimeWeek": "90.56%",
     "uptimeMonth": "97.73%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.20%",
     "time": 2483,
-    "timeDay": 3982,
+    "timeDay": 3874,
     "timeWeek": 3858,
     "timeMonth": 3111,
     "timeYear": 2483,
@@ -50,8 +50,7 @@
       "2022-08-02": 250,
       "2022-08-01": 14,
       "2022-07-29": 25,
-      "2022-07-27": 11,
-      "2022-07-26": 190
+      "2022-07-27": 11
     }
   }
 ]
