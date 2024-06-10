@@ -4,7 +4,7 @@
     "url": "https://home.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/home.tiekoetter.com.ico",
     "slug": "home-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1268,
     "timeYear": 1656,
     "dailyMinutesDown": {
+      "2024-06-10": 0,
       "2024-03-09": 9,
       "2024-02-17": 5,
       "2024-02-16": 10,
