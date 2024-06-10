@@ -9,7 +9,6 @@ status-website:
   introTitle: "Vodafone Störungsstatistiken"
   introMessage: Diese Seite prüft alle 5 Minuten ob eine Internet Störung bei Vodafone vorliegt.
   cname: vodafone-stoerungsstatistiken.tiekoetter.com
-  baseUrl: /
   favicon: https://tiekoettercom-cdn.tiekoetter.cloud/wp-content/uploads/2020/06/tiekoetter-300x300.png
   logoUrl: https://tiekoettercom-cdn.tiekoetter.cloud/wp-content/uploads/2020/06/tiekoetter-300x300.png
   theme: light
