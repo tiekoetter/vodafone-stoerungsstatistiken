@@ -6,15 +6,15 @@
     "slug": "home-tiekoetter-com",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.92%",
     "time": 1706,
-    "timeDay": 1192,
-    "timeWeek": 1211,
-    "timeMonth": 1211,
-    "timeYear": 1652,
+    "timeDay": 1447,
+    "timeWeek": 1258,
+    "timeMonth": 1258,
+    "timeYear": 1651,
     "dailyMinutesDown": {
       "2024-06-10": 15,
       "2024-03-09": 9,
@@ -43,8 +43,7 @@
       "2023-07-24": 5,
       "2023-07-21": 5,
       "2023-07-08": 5,
-      "2023-07-02": 5,
-      "2023-06-13": 5
+      "2023-07-02": 5
     }
   }
 ]
