@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.tiekoetter.com.ico",
     "slug": "home-tiekoetter-com",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1652,
-    "timeDay": 1794,
-    "timeWeek": 1624,
-    "timeMonth": 1624,
+    "time": 1653,
+    "timeDay": 1970,
+    "timeWeek": 1671,
+    "timeMonth": 1613,
     "timeYear": 1666,
     "dailyMinutesDown": {
       "2025-07-25": 50,
@@ -58,8 +58,7 @@
       "2024-10-12": 5,
       "2024-09-25": 20,
       "2024-09-24": 5,
-      "2024-09-16": 5,
-      "2024-09-06": 14
+      "2024-09-16": 5
     }
   }
 ]
