@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.tiekoetter.com.ico",
     "slug": "home-tiekoetter-com",
     "status": "down",
-    "uptime": "90.28%",
+    "uptime": "90.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.13%",
-    "time": 1653,
+    "uptimeYear": "63.86%",
+    "time": 1644,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1676,
     "dailyMinutesDown": {
-      "2026-02-27": 158,
+      "2026-02-28": 147,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -167,8 +168,7 @@
       "2025-04-23": 10,
       "2025-04-16": 25,
       "2025-04-08": 55,
-      "2025-03-19": 5,
-      "2025-02-28": 165
+      "2025-03-19": 5
     }
   }
 ]
